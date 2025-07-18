@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "The Complete Digital Marketing Course - 12 Courses in 1",
+    "instructors": "Rob Percival, Daragh Walsh, Codestars",
+    "rating": "4.4",
+    "totalRatings": "178,286",
+    "price": "4499",
+    "image": "https://img-c.udemycdn.com/course/240x135/914296_3670_8.jpg",
+    "category": "Digital Marketing"
+  },
+  {
+    "id": 2,
+    "title": "Digital Marketing Masterclass: AI & Social Media Marketing",
+    "instructors": "Phil Ebiner, Diego Davila",
+    "rating": "4.5",
+    "totalRatings": "25,286",
+    "price": "4499",
+    "image": "/image/courcetwo.png",
+    "category": "Digital Marketing"
+  },
+  {
+    "id": 3,
+    "title": "The Complete Digital Marketing Guide - 27 Courses in 1",
+    "instructors": "Robin & Jesper",
+    "rating": "4.6",
+    "totalRatings": "44,908",
+    "price": "3299",
+    "image": "https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+    "category": "Digital Marketing"
+  },
+  {
+    "id": 4,
+    "title": "Digital Marketing Strategist. Unlock your career growth",
+    "instructors": "Anton Voroniuk, Anton Voroniuk Support, Vlad",
+    "rating": "4.4",
+    "totalRatings": "3,749",
+    "price": "3999",
+    "image": "/image/courcethree.png",
+    "category": "Digital Marketing"
+  },
+  {
+    "id": 5,
+    "title": "AI Masterclass: From Beginner to Expert",
+    "instructors": "Andrew Ng, DeepLearning.AI",
+    "rating": "4.8",
+    "totalRatings": "98,452",
+    "price": "4999",
+    "image": "https://img-c.udemycdn.com/course/240x135/950390_270f_3.jpg",
+    "category": "AI"
+  },
+  {
+    "id": 6,
+    "title": "Generative AI with Large Language Models",
+    "instructors": "AI Experts Team",
+    "rating": "4.7",
+    "totalRatings": "42,156",
+    "price": "4299",
+    "image": "https://img-c.udemycdn.com/course/240x135/4165206_8d3a.jpg",
+    "category": "AI"
+  },
+  {
+    "id": 7,
+    "title": "Computer Vision & Deep Learning Certification",
+    "instructors": "Jose Portilla, AI University",
+    "rating": "4.6",
+    "totalRatings": "35,789",
+    "price": "4599",
+    "image": "https://img-c.udemycdn.com/course/240x135/1754098_e0df_3.jpg",
+    "category": "AI"
+  },
+  {
+    "id": 8,
+    "title": "Data Science A-Z: Real-Life Data Science Exercises",
+    "instructors": "Kirill Eremenko, SuperDataScience Team",
+    "rating": "4.6",
+    "totalRatings": "112,345",
+    "price": "3999",
+    "image": "https://img-c.udemycdn.com/course/240x135/1754098_e0df_3.jpg",
+    "category": "Data Science"
+  },
+  {
+    "id": 9,
+    "title": "Machine Learning & Data Science Masterclass",
+    "instructors": "Jose Portilla, Pierian Data",
+    "rating": "4.7",
+    "totalRatings": "87,654",
+    "price": "4799",
+    "image": "https://img-c.udemycdn.com/course/240x135/950390_270f_3.jpg",
+    "category": "Data Science"
+  },
+  {
+    "id": 10,
+    "title": "Python for Data Science and Machine Learning",
+    "instructors": "Jose Portilla",
+    "rating": "4.6",
+    "totalRatings": "156,789",
+    "price": "3499",
+    "image": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg",
+    "category": "Data Science"
+  },
+  {
+    "id": 11,
+    "title": "The Complete Web Developer in 2024: Zero to Mastery",
+    "instructors": "Andrei Neagoie",
+    "rating": "4.7",
+    "totalRatings": "134,567",
+    "price": "3999",
+    "image": "https://img-c.udemycdn.com/course/240x135/1430746_2f43_10.jpg",
+    "category": "Web Development"
+  },
+  {
+    "id": 12,
+    "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+    "instructors": "Maximilian Schwarzmüller",
+    "rating": "4.7",
+    "totalRatings": "198,765",
+    "price": "4299",
+    "image": "https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+    "category": "Web Development"
+  },
+  {
+    "id": 13,
+    "title": "The Complete JavaScript Course 2024: From Zero to Expert!",
+    "instructors": "Jonas Schmedtmann",
+    "rating": "4.7",
+    "totalRatings": "187,654",
+    "price": "3799",
+    "image": "https://img-c.udemycdn.com/course/240x135/851712_fc61_6.jpg",
+    "category": "Web Development"
+  },
+  {
+    "id": 14,
+    "title": "Advanced AI: Deep Reinforcement Learning in Python",
+    "instructors": "Lazy Programmer Team",
+    "rating": "4.5",
+    "totalRatings": "28,456",
+    "price": "4899",
+    "image": "https://img-c.udemycdn.com/course/240x135/1328572_4d25_10.jpg",
+    "category": "AI"
+  },
+  {
+    "id": 15,
+    "title": "Full Stack Web Development with React and Node.js",
+    "instructors": "Stephen Grider",
+    "rating": "4.6",
+    "totalRatings": "92,345",
+    "price": "4199",
+    "image": "https://img-c.udemycdn.com/course/240x135/1409142_1879_8.jpg",
+    "category": "Web Development"
+  },
+  {
+    "id": 16,
+    "title": "Data Visualization and Storytelling with Tableau",
+    "instructors": "Kirill Eremenko, SuperDataScience Team",
+    "rating": "4.7",
+    "totalRatings": "64,823",
+    "price": "3899",
+    "image": "https://img-c.udemycdn.com/course/240x135/1774532_4b3f.jpg",
+    "category": "Data Science"
+  }
+]
