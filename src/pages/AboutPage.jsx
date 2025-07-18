@@ -66,7 +66,7 @@ const AboutPage = () => {
         <div className="relative px-6 py-24 mx-auto max-w-7xl">
           <div className={`text-center transition-all duration-1000 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}>
             <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 bg-gradient-to-r from-white to-blue-200 bg-clip-text text-transparent">
-              About EduTech Pro
+              About CodeBrain
             </h1>
             <p className="text-xl md:text-2xl text-blue-100 max-w-4xl mx-auto leading-relaxed">
               Empowering the next generation of tech professionals through cutting-edge education, 
@@ -112,7 +112,7 @@ const AboutPage = () => {
         <div className="px-6 mx-auto max-w-7xl">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-              Why Choose <span className="bg-gradient-to-r from-blue-600 to-[#566afc] bg-clip-text text-transparent">EduTech Pro</span>
+              Why Choose <span className="bg-gradient-to-r from-blue-600 to-[#566afc] bg-clip-text text-transparent">Code Brain</span>
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Experience the difference with our comprehensive approach to tech education
